@@ -1,0 +1,55 @@
+{
+  "name": "react-example",
+  "version": "0.1.0",
+  "author": "신희성 <5037055+lumiere0b@users.noreply.github.com>",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.9.7",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "clsx": "^1.1.0",
+    "date-fns": "^2.11.0",
+    "echarts": "^4.7.0",
+    "echarts-for-react": "^2.0.16",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.1.8",
+    "node-sass": "^4.13.1",
+    "qs": "^6.9.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-number-format": "^4.4.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/echarts": "^4.4.4",
+    "@types/node": "^12.12.31",
+    "@types/qs": "^6.9.1",
+    "@types/react": "^16.9.25",
+    "@types/react-dom": "^16.9.5",
+    "@types/react-router-dom": "^5.1.3"
+  }
+}
