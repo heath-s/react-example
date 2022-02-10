@@ -14,7 +14,7 @@
     "echarts-for-react": "^2.0.16",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.8",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "qs": "^6.9.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
